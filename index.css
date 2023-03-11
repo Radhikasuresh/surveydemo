@@ -1,0 +1,29 @@
+.big-box{
+  border:1px solid lightgray;
+  height: 920px;
+  width: 900px;
+  margin:20px;
+}
+.red-star {
+  color: red;
+  font-size:75%;
+}
+.fa{
+  color:rgba(255, 94, 0, 0.603);
+  font-size:200%;
+}
+.box{
+  border: 1px solid lightgray;
+  height: 100px;
+}
+.heading{
+  font-size: 13px;
+  font-weight: lighter;
+  font-family:Arial, Helvetica, sans-serif;
+
+}
+.style{
+  color:red
+}
+
+
